@@ -9,3 +9,7 @@ Our aim is to begin with the web page elements, making sure that the HTML and CS
 Full project proposal document: https://docs.google.com/document/d/1g51FXTA4KtCZpx01TH4tfxE-pHfBzKmaispEEJesT0w/edit?usp=sharing
 
 Design Overview with Structure Diagrams: https://docs.google.com/document/d/1IQrkzHNtaklA2wivzY0xL9w11t1KRJV0PTKIJhPL7o4/edit?usp=sharing
+
+User Study Report: https://docs.google.com/document/d/1ZjG4qdKh7DttlWeyg5vccWLYrF5m75ptaHet_2uDjIM/edit?usp=sharing
+
+Hand-Off Documentation: https://docs.google.com/document/d/16Cc8CAIfMAc8wwyB6LSjCsCAYv0ycAPkLqK_PQtee4I/edit?usp=sharing
